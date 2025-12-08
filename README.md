@@ -1,4 +1,6 @@
-# CoupledFLE
-Simulation codes for "Anomalous diffusion in coupled viscoelastic media: A fractional Langevin equation approach".
+# Code for "Anomalous diffusion in coupled viscoelastic media: A fractional Langevin equation approach"
 
-https://doi.org/10.48550/arXiv.2507.08291
+This repository contains the simulation code used in:
+
+> Chan Lim and J.-H. Jeon, "Anomalous diffusion in coupled viscoelastic media: A fractional Langevin equation approach", *Phys. Rev. Research* (2025).  
+> [arXiv:2507.08291](https://doi.org/10.48550/arXiv.2507.08291)
