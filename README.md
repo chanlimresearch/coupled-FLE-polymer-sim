@@ -3,8 +3,7 @@
 This repository contains the simulation code used in:
 
 > Chan Lim and J.-H. Jeon,  
-> "Anomalous diffusion in coupled viscoelastic media: A fractional Langevin equation approach", (2025).  
-> [Physical Review Research](https://doi.org/10.1103/thv9-s9mq)
+> "Anomalous diffusion in coupled viscoelastic media: A fractional Langevin equation approach", Physical Review Research, [Accepted (2025)](https://doi.org/10.1103/thv9-s9mq)
 
 These Python scripts simulate the dynamics of two polymer-based coupled systems:
 
